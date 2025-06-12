@@ -1,0 +1,1 @@
+# Wind-Energy-Industry-Analytics-in-Denmark
