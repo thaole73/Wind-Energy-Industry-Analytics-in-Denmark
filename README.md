@@ -9,7 +9,7 @@ footprint and achieve their emission reduction targets while reducing their depe
 as vulnerability to energy price fluctuations and supply disruption. In Europe, Denmark had the highest
 share of wind with an impressive 55% in 2022, followed by Ireland with 34%. The UK became the country
 with the third highest share of wind with 28% (Wind Europe, 2023). In this report, I will focus on exploring,
-analyzing, and forecasting the wind power industry in Denmark. The report aims to answer the question
+analyzing, and forecasting the wind power production in Denmark. The report aims to answer the question
 “How do weather factors and climate change impact wind power production in Denmark?”
 In the first part of the report, I will discuss about the background of wind power industry and regulation
 in Denmark and develop the hypothesis relating to research question based on existing literatures. Then,
